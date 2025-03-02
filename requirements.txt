@@ -8,3 +8,5 @@ colorama
 plyer
 python-osc
 rich
+pypresence
+psutil
